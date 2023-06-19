@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multiscreen App</string>
+    <string name="welcome_to_aditi_s_cafe" />
+    <string name="enter_order_1" />
+    <string name="enter_order_2" />
+    <string name="enter_order_3" />
+    <string name="enter_order_4" />
+    <string name="order_now" />
+</resources>
